@@ -15,7 +15,7 @@ Business Importance:
 Understanding the product catalog helps identify inventory
 distribution and category strength before sales analysis.
 
-Author : Devi Sri Parvathi
+Author : Devi Sri Parvathi Junjuri
 ===============================================================================
 */
 
